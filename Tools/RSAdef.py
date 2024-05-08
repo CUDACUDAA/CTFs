@@ -1,10 +1,10 @@
 from Crypto.Util.number import inverse
 
-n = 363241
-e = 7
-p = 449
-q = 809
-ct = 244800
+n = #
+e = #
+p = #
+q = #
+ct = #
 
 phi = (p-1)*(q-1)
 
