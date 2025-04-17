@@ -1,5 +1,5 @@
 from binascii import unhexlify
-
+#SCB{g1thu8_3xp10r3r}
 # Provided data
 secret_msg_hex = ''
 known_plaintext = '00000000000000000000000000000000'
